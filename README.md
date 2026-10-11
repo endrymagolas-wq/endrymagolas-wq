@@ -25,7 +25,6 @@ Nobody asked for this. I wanted my computer to do a few things my way: a Dynamic
 | [Ternopil – Pidhorodne bus timetable](https://endrymagolas-wq.github.io/pidhorodne-bus-live/) | A timetable you can actually use, for the village in Ukraine I am from. Directions, stops, route filter, countdown to the next bus, calendar export. |
 | [Transkript](https://github.com/endrymagolas-wq/Transkript) | Paste a video link, get a transcript. FastAPI and yt-dlp on the back end, AssemblyAI for speech recognition, a Vite front end. |
 | A cleaning business website | A simple way to put together a request and send it straight to WhatsApp. Real project, real client. |
-| Make It Happen | A website for a small team. |
 
 More on the portfolio, including the interactive project scenes: [galaiko.cortiva.co.uk](https://galaiko.cortiva.co.uk).
 
