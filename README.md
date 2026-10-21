@@ -1,12 +1,12 @@
 # Andrew Galaiko
 
-Websites, oddly specific tools, and ideas that got out of hand. Product, design and development, usually all three at once. London.
+Websites, oddly specific tools, and ideas that got out of hand. Product, design and development, usually all three at once, built by directing AI. London.
 
 [galaiko.cortiva.co.uk](https://galaiko.cortiva.co.uk) · [cortiva.co.uk](https://cortiva.co.uk)
 
 ## Cortiva
 
-A day planner with an assistant that re-plans around delays, meetings and low energy, and asks before it changes anything. Timeline, map and the assistant all work around the same real day. I do the product, the app, the backend and every decision in between, and I am still going. Open to a team, licensing or acquisition that wants to take it further.
+A proactive personal assistant (in development) that turns context from your apps and devices into coordinated action. It re-plans around delays, meetings and low energy, and asks before it changes anything. Timeline, map and the assistant all work around the same real day. I do the product, the app, the backend and every decision in between, with AI doing the coding, and I am still going. Open to a team, licensing or acquisition that wants to take it further.
 
 [cortiva.co.uk](https://cortiva.co.uk)
 
